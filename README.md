@@ -19,7 +19,7 @@ npm i --save evidently-tweens
 
 ### Documentation
 
-The full documentation can be found [here](https://evidentlycube.github.io/evidently-tweens/index.html). 
+The full documentation can be found [here](https://evidentlycube.github.io/evidently-tweens/). 
 
 An example of using tweens:
 
